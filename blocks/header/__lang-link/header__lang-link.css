@@ -2,12 +2,9 @@
     font-weight: normal;
     font-size: 24px;
     line-height: 28px;
-    text-decoration: underline;
-    margin: 0;
-}
-
-.header__lang-link:last-child{
     text-decoration: none;
+    color: #fff;
+    margin: 0;
 }
 
 @media screen and (max-width: 767px) {
@@ -15,4 +12,4 @@
         font-size: 18px;
         line-height: 20px;
     }
-  }
+}
