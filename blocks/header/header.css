@@ -1,6 +1,6 @@
 .header {
     display: grid;
-    grid-template-columns: 1fr 30px 29px;
+    grid-template-columns: 1fr 77px;
     gap: 18px;
     justify-items: start;
     align-items: end;
@@ -23,7 +23,7 @@
 
 @media screen and (max-width: 767px) {
     .header {
-        grid-template-columns: 1fr 22px 22px;
+        grid-template-columns: 1fr 62px;
         max-width: 288px;
         margin: 16px auto 48px;
     }
